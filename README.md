@@ -18,4 +18,4 @@ Dashboard criado para análise executiva de performance comercial e operacional 
 
 | Overview           | Performance            | Diagnóstico              |
 |--------------------|-----------------------|--------------------------|
-| ![]([Imagens/tela-overview.png](https://github.com/Guid3Paula/dashboard-performance-hotelaria-powerbi/blob/main/Captura%20de%20tela%202025-06-05%20175509.png)| ![](Imagens/tela-performance.png) | ![](Imagens/tela-diagnostico.png) |
+| ![]Imagens/tela-overview.png](https://github.com/Guid3Paula/dashboard-performance-hotelaria-powerbi/blob/main/Captura%20de%20tela%202025-06-05%20175509.png| ![](Imagens/tela-performance.png) | ![](Imagens/tela-diagnostico.png) |
