@@ -1,2 +1,21 @@
-# dashboard-performance-hotelaria-powerbi
-Dashboard interativo de performance hoteleira desenvolvido no Power BI, com KPIs, diagnósticos e análise de influenciadores.
+# Dashboard de Performance e Diagnóstico Hoteleiro – Power BI
+
+Projeto desenvolvido por Guilherme de Paula
+
+## 🔗 [Acesse o dashboard interativo no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiN2Q0MGJhZmMtMzU5Mi00YWIwLTg2OGYtZDMxNDM0NzBjODAwIiwidCI6IjczOWQ2MjAxLTg5MTMtNGJjOC1hZWI3LWU2YjQzOTQ5ODI2ZCJ9)
+
+## Sobre o Projeto
+
+Dashboard criado para análise executiva de performance comercial e operacional de uma rede hoteleira. Foco em KPIs, diagnóstico visual de influenciadores positivos e negativos, análise de sazonalidade e evolução de resultados.
+
+### Principais funcionalidades:
+- KPIs estratégicos: Receita, ADR, Ocupação, RevPAR, Reservas, Variações percentuais.
+- Evolução temporal, heatmap de ocupação semanal e cascata de contribuição.
+- Ranking de unidades, análise de influenciadores, insights automáticos em texto.
+- Layout responsivo, filtros dinâmicos e identidade visual personalizada.
+
+## Screenshots
+
+| Overview           | Performance            | Diagnóstico              |
+|--------------------|-----------------------|--------------------------|
+| ![](Imagens/tela-overview.png) | ![](Imagens/tela-performance.png) | ![](Imagens/tela-diagnostico.png) |
